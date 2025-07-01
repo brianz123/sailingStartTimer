@@ -10,7 +10,7 @@ The Sailing Start Timer outputs a sequence of horn blasts that follow standard s
 
 - Automated horn sequence for 5-minute, 3-minute, or custom countdowns
 - One-button operation for simple race start triggering
-- Loud, waterproof speaker for outdoor use
+- Loud, waterproof horn for outdoor use
 - Rugged and portable design suitable for mark boats or committee boats
 - Custom enclosure and PCB designed for durability
 
@@ -35,7 +35,7 @@ The Sailing Start Timer outputs a sequence of horn blasts that follow standard s
 2. The microcontroller runs a timed sequence of horn blasts:
    - Long horn at 5:00
    - Warning signals at 4:00, 1:00, and 0:00 (based on racing rules)
-3. Horns are output through a waterproof speaker module at full volume.
+3. Horn blasts are output through a waterproof horn module at full volume.
 4. System resets automatically or after user input.
 
 ## Use Case
